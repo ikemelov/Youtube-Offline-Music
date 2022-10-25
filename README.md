@@ -13,6 +13,6 @@ In order to run this:
         for example: cd /users/liam/Desktop/Youtube-Offline-Music
   4. Execute command:    python main.py
   5. Youtube-Offline-Music interface will pop-up. Enter link to the youtube playlist and where you want to store the playlist
-  6. Press downlaod button to download
+  6. Press Download button to download
  
  It will automatically download the playlist from YouTube and convert it to mp3 extension.
